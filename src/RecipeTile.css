@@ -1,0 +1,13 @@
+.recipe_img{
+    height:250px;
+    width:300px;
+    object-fit:cover;
+    border-radius:4px;
+    cursor:pointer;
+}
+.recipe_name{
+    text-align: center;
+    margin-left: 12px 0px;
+    margin-bottom: 20px;  
+}
+
